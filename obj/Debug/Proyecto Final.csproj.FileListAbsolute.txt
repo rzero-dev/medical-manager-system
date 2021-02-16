@@ -1,0 +1,37 @@
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistro.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultas.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultasCit.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultasPac.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroCli.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroMed.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroPac.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FormularioPrincipal.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultasMed.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroCitas.resources
+C:\Users\leudy\Desktop\Proyecto final Programacion I\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConversor.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroCitas.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultasMed.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConversor.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroCli.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultas.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FConsultasPac.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroMed.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistroPac.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FRegistro.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.FormularioPrincipal.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\leudy\Desktop\Final Project\Proyecto Final\bin\Debug\Proyecto Final.pdb
